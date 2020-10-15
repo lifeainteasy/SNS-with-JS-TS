@@ -16,6 +16,9 @@ React와 Vue | JS , TS을 사용해서 트위터를 만들어 보았습니다.
     - Nuxt
     - Js
 
+- Back
+    - FireBase 
+    
     > 예정
 - Node.js
     - express
